@@ -1,0 +1,7 @@
+Ivanov 50000
+Smirnov 70000
+Petrov 65000
+Sidorov 15000
+Vlasova 18000
+Lutina 50000
+Makarova 124000
